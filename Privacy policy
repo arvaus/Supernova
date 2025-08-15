@@ -1,0 +1,36 @@
+Privacy Policy — Supernova Roku App
+
+Effective Date: 8/15/25
+
+The Supernova Roku App is a custom version of the Jellyfin Roku client, designed to connect to your self-hosted Jellyfin media server.
+
+1. Information We Collect
+
+This app does not collect or store any personal data.
+
+All information (such as your media library, user profiles, and viewing history) is stored locally on your own Jellyfin server.
+
+2. How We Use Your Information
+
+No data is sent to us, the developer.
+
+All data transfer occurs directly between your Roku device and your Jellyfin server.
+
+3. Third-Party Services
+
+This app does not use third-party analytics, advertising, or tracking services.
+
+4. Security
+
+The security of your data depends on your own server configuration, network setup, and password management.
+
+We recommend enabling HTTPS on your Jellyfin server and keeping your Roku device updated.
+
+5. Changes to This Policy
+
+If this Privacy Policy changes, we will update the Effective Date at the top of this page.
+
+6. Contact
+
+For privacy-related questions, contact:
+Austin-austinarvonio14@gmail
